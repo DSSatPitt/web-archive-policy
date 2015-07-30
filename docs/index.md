@@ -1,5 +1,8 @@
 # University of Pittsburgh Web Archives: Collection Development Policy
 
+
+**DRAFT**
+
 ## Introduction
 
 The purpose of this document is to ensure:
