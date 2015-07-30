@@ -10,7 +10,10 @@ The purpose of this document is to ensure:
 
 ## Mission 
 
-* [Insert language from Pitt Archives policy documents]
+
+Based on the October 19, 1977, mandate approved by the University’s Senior Administrative Staff, the University Archives is to “collect and preserve the University’s official files, records and documents that contain evidence and information with respect to their origins and development and the achievements of its officers, faculty and students.“
+ 
+“These records include programs of institutes or special events; copies of reports and speeches; clippings and other publicity material; records and publications of student organizations; and faculty personal papers, photographs, scrapbooks, curriculum materials, etc. The University Archives also seeks to retain one copy of all University publications including those of the University of Pittsburgh Press.”
 
 ## Scope
 
